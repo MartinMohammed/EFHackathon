@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Magnet Pablo Picasso - Le Rêve, 1932.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Magnet Pablo Picasso - Le Rêve, 1933.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Magnet Pablo Picasso - Le Rêve, 1934.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

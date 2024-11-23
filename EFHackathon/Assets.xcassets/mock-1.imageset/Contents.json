@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Cahier Pablo Picasso - Dora Maar aux ongles verts, 1936.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Cahier Pablo Picasso - Dora Maar aux ongles verts, 1937.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Cahier Pablo Picasso - Dora Maar aux ongles verts, 1938.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
